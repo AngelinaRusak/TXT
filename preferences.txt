@@ -1,0 +1,5 @@
+      fav_movie - No
+      fav_series - inventing anna
+      fav_food - seafood
+      fav_season - summer
+      country - Canada
